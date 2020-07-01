@@ -1,6 +1,5 @@
 from collections import defaultdict
 from http.server import HTTPServer, SimpleHTTPRequestHandler
-import math
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import datetime
